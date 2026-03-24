@@ -1,5 +1,5 @@
 #Joshua Shadle
-#GPA program that takes a students last name and GPA to tell the student if they've made the Deans List or Honor Roll up to
+#GPA program that takes a students last name and GPA to tell the student if they've made the Deans List or Honor Roll up to 5 people
 number = 0
 while number < 5:
     last_name = input("What is your last name?")
